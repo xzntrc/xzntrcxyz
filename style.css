@@ -1,0 +1,35 @@
+* {
+    background:#ffe;
+    color:#000;
+    max-width:100%
+   }
+
+html {
+    padding:1.8em
+}
+#name{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 1.8em;
+}
+#items{
+    float: right;
+    justify-content: right;
+}
+#name a{
+    text-decoration: none;
+}
+body {
+   
+    font-family: Helvetica Neue,Helvetica,Arial,sans-serif; 
+    max-width:90ex;
+    margin:auto
+}
+#content {
+    padding-top: 0.2em;
+}
+pre {
+    line-height:normal
+}
+#footer{
+    word-spacing: 20px;
+}
